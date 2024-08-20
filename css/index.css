@@ -13,15 +13,15 @@ body{
 
 #wrap_all{
 	position: relative;
-	width: 1920px;
-	height: 5440px;
+	width: 100%;
+	height: 6000px;
 	background: #fff0e9;
 	}
 
 <!-- -INDEX------------------------------------------------------------------------------------ -->
 #wrap_index{
 	position: relative;
-	width: 1920px;
+	width: 100%;
 	height: 990px;
 	}
 		
